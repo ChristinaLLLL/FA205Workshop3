@@ -1,7 +1,7 @@
 let imgHarlow;
 
 function preload() {
-  imgHarlow = loadImage('images/Harlow.jpg');
+  imgHarlow = loadImage('Images/Harlow.jpg');
 }
 
 function setup() {
